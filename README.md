@@ -9,9 +9,7 @@ NYU Scheduler
 [
   {
     "Ids"         : [
-      "Id"        : "2",
-    ],
-    
+      "Id"        : "2"],
     "Name"        : "Database",
     "Session"     : "09/02/2014 - 12/19/2014",
     "Compenents"  : [{
