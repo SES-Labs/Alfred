@@ -6,6 +6,7 @@ NYU Scheduler
 
 #JSON Example:
 
+~~~~
 [
   {
     "Ids"         : [
@@ -31,3 +32,4 @@ NYU Scheduler
     }]
   }
 ]
+~~~~
