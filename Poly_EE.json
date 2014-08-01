@@ -1,0 +1,638 @@
+[
+  {
+    "Ids"         : [
+      "Id"        : "2024"],
+    "Name"        : "Fundamentals of Electronic Circuits II",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description": "The course continues EE2013 and focuses on sinusoidal steady-state      response; complex voltage and current and the phasor concept; impedance and             admittance; average, apparent and reactive power; polyphase circuits; node and mesh     analysis for AC circuits; use of Matlab for solving circuit equations; frequency            response; parallel and series resonance; and operational amplifier circuits. A          laboratory meets on alternate weeks. A minimum of C- is required to take other EE         courses. | Prerequisites: EE-UY 2013 with C or better grade. ABET competencies       a,b,c, d, e, k."       
+    "Compenents"  : [{
+      "Section"   : "A1,A2,B1,B2",
+      "Number"    : "1193",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "10:30 AM - 12:20 PM",
+        "Day"     : "Monday",
+        "Location": "RGSH 705"
+                      },
+        {
+        "Time"    : "10:30 AM - 11:50 AM",
+        "Day"     : "Wednesday",
+        "Location": "RGSH 705"
+        },
+         { "Name": "Laboratory-A1, A2",
+        "Meetings":[{
+        "Time": "8:00 AM - 10:50 AM",
+        "Day": "Friday",
+        "Location": "DIBN LC009"  
+          }]                      
+             },
+        
+             },
+        { "Name": "Laboratory-B1, B2",
+        "Meetings":[{
+        "Time": "1:00 PM - 3:50 PM",
+        "Day": "Friday",
+        "Location": "DIBN LC009"  
+          }]                      
+             },    
+        { "Name": "Lecture for Lab",
+        "Meetings":[{
+        "Time": "9:00 AM - 9:55 AM",
+        "Day": "Monday",
+        "Location": "JABS 674"  
+          }]                      
+             },    
+            { "Name": "Recitation",
+        "Meetings":[{
+        "Time": "11:30 AM - 12:20 PM",
+        "Day": "Wednesday",
+        "Location": "JABS 774"  
+          }]                      
+             },    
+                     
+      
+    }]
+        
+  },
+     {
+    "Ids"         : [
+      "Id"        : "2013"],
+    "Name"        : "Fundamentals of Electronic Circuits I",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Descripton":"This course covers Passive DC circuit elements, Kirchoff’s laws, electric power calculations, analysis of DC circuits, Nodal and Loop analysis techniques, voltage and current division, Thevenin’s and Norton’s theorems, and source-free and forced responses of RL, RC and RLC circuits. A minimum of C- is required to take other EE courses. | Co-requisites: MA-UY 2012, MA-UY 2132 and PH-UY 2023. ABET competencies a, c, e, k."
+    "Compenents"  : [{
+      "Section"   : "A, B",
+      "Number"    : "1191",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "12:30 PM - 1:50 PM",
+        "Day"     : "Monday, Wednesday",
+        "Location": "JABS 475"
+                      },
+        { "Name": "Recitation",
+        "Meetings":[{
+        "Time": "8:00 AM - 8:55 AM",
+        "Day": "Wednesday",
+        "Location": "JABS 474"  
+          }]                      
+             },    
+                     
+      ]
+    }]
+        
+  },
+    {
+    "Ids"         : [
+      "Id"        : "3114"],
+    "Name"        : "Fundamentals of Electronics I",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" :   "This course focuses on circuit models and amplifier frequency response, op-amps, difference amplifier, voltage-to-current converter, slew rate, full-power bandwidth, common-mode rejection, frequency response of closed-loop amplifier, gain-bandwidth product rule, diodes, limiters, clamps and semiconductor physics. Other topics include Bipolar Junction Transistors; small-signal models, cut-off, saturation and active regions; common emitter, common base and emitter-follower amplifier configurations; Field-Effect Transistors (MOSFET and JFET); biasing; small-signal models; common-source and common..." 
+    "Compenents"  : [{
+      "Section"   : "A,A2, B,B2,C,C2",
+      "Number"    : "1198",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "10:30 AM - 12:20 PM",
+        "Day"     : "Tuesday",
+        "Location": "RGSH 215"
+                      },
+        {
+        "Time"    : "10:30 AM - 11:20 AM",
+        "Day"     : "Thursday",
+        "Location": "RGSH 215"
+        }
+      ],
+        { "Name": "Recitation",
+        "Meetings":[{
+        "Time": "11:30 AM - 12:20 PM",
+        "Day": "Thursday",
+        "Location": "RGSH 215"  
+          }]} ,   
+        
+        { "Name": "Laboratory-A, A2",
+        "Meetings":[{
+        "Time": "1:00 PM - 3:50 PM",
+        "Day": "Friday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B, B2",
+        "Meetings":[{
+        "Time": "8:00 AM - 10:50 AM",
+        "Day": "Wednesday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+            { "Name": "Laboratory-C, C2",
+        "Meetings":[{
+        "Time": "6:00 PM - 8:50 PM",
+        "Day": "Tuesday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+            { "Name": "Lecture for Lab",
+        "Meetings":[{
+        "Time": "12:00 PM - 12:55 PM",
+        "Day": "Friday",
+        "Location": "RGSH 215"  
+          }]
+        },         
+    }]
+        
+},
+     {             "Ids"         : [
+      "Id"        : "3124, 112"],
+    "Name"        : "Fundamentals of Electronics II",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "The course concentrates on differential and multistage amplifier, current mirrors, current sources, active loads; frequency response of MOSFET, JFET and BJT amplifiers: Bode plots; feedback amplifiers, gain-bandwidth rule and feedback effect on frequency response; Class A, B and AB output stages; op-amp analog integrated circuits; piecewise-linear transient response; determination of state of transistors; wave-shaping circuits; MOS and bipolar digital design: noise margin, fan-out, propagation delay; CMOS, TTL, ECL; and an alternate week laboratory. The course studies design and analysis of analog integrated circuits, frequency response of amplifiers, feedback amplifiers, TTL and CMOS digital integrated circuits. | Prerequisite: EE-UY 3114. ABET competencies a, c, e, g, k."  
+    "Compenents"  : [{
+      "Section"   : "A1,A2, B1,B2",
+      "Number"    : "1905",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "8:30 AM - 10:20 AM",
+        "Day"     : "Tuesday, Thursday",
+        "Location": "RGSH 605"
+                      },
+      ],
+        
+        { "Name": "Laboratory-A1, A2",
+        "Meetings":[{
+        "Time": "8:00 AM - 10:50 AM",
+        "Day": "Friday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B1, B2",
+        "Meetings":[{
+        "Time": "4:00 PM - 6:50 PM",
+        "Day": "Friday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+        
+            { "Name": "Lecture for Lab",
+        "Meetings":[{
+        "Time": "2:30 PM - 3:25 PM",
+        "Day": "Wednesday",
+        "Location": "RGSH 201"  
+          }]
+        },         
+    }]
+      
+},
+    {             "Ids"         : [
+      "Id"        : "3604", "160"],
+    "Name"        : "Electromagnetic Waves",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Electromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell’s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated. Alternate-week laboratory. Objectives: Establish foundations of electromagnetic wave theory applicable to antennas, transmissions lines and materials; increase appreciation for properties of materials through physical experiments. | Prerequisites: EE-UY 2024 (C- or better) and MA-UY 3112. ABET competencies: a, b, c, e, k"
+    "Compenents"  : [{
+      "Section"   : "A1,A2, B1,B2",
+      "Number"    : "1266",
+      "Name"      : "Lecture",
+      "Professor" : "I-Tai Lu",
+      "Meetings"  : [{
+        "Time"    : "2:30 PM - 3:50 PM",
+        "Day"     : "Monday, Wednesday",
+        "Location": "RGSH 705"
+                      },
+      ],
+        
+        { "Name": "Laboratory-A1, A2",
+        "Meetings":[{
+        "Time": "8:00 AM - 10:50 AM",
+        "Day": "Wednesday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B1, B2",
+        "Meetings":[{
+        "Time": "2:00 PM - 4:50 PM",
+        "Day": "Friday",
+        "Location": "DIBN LC021"  
+          }]
+        },
+        
+            { "Name": "Lecture for Lab",
+        "Meetings":[{
+        "Time": "8:00 AM - 8:55 AM",
+        "Day": "Friday",
+        "Location": "JABS 475"  
+          }]
+        },         
+    }]
+     
+},
+  
+ {
+    "Ids"         : [
+      "Id"        : "3144", "4144"],
+    "Name"        : "Introduction to Embedded Systems Design",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Electromagnetic wave propagation in free space and in dielectrics, starting from a consideration of distributed inductance and capacitance on transmission lines. Electromagnetic plane waves are obtained as a special case. Reflection and transmission at discontinuities are discussed for pulsed sources, while impedance transformation and matching are presented for harmonic time dependence. Snell’s law and the reflection and transmission coefficients at dielectric interfaces are derived for obliquely propagation plane waves. Guiding of waves by dielectrics and by metal waveguides is demonstrated...."
+    "Compenents"  : [{
+      "Section"   : "A1,A2, B1,B2",
+      "Number"    : "1261",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "10:30 AM - 12:20 PM",
+        "Day"     : "Monday",
+        "Location": "JABS 674"
+                      },
+        {
+        "Time"    : "10:30 AM - 11:25 AM",
+        "Day"     : "Wednesday",
+        "Location": "RGSH 707"
+        }
+      ],
+
+        
+        { "Name": "Laboratory-A1, A2",
+        "Meetings":[{
+        "Time": "9:00 AM - 11:50 AM",
+        "Day": "Friday",
+        "Location": "DIBN LC011"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B1, B2",
+        "Meetings":[{
+        "Time": "3:00 PM - 5:50 AM",
+        "Day": "Friday",
+        "Location": "DIBN LC011"  
+          }]
+        },
+        
+            { "Name": "Lecture for Lab",
+        "Meetings":[{
+        "Time": "11:30 PM - 12:20 PM",
+        "Day": "Wednesday",
+        "Location": "JABS 473"  
+          }]
+        },         
+    }]
+
+  
+},
+
+{
+    "Ids"         : [
+      "Id"        : "3824"],
+    "Name"        : "Electric Energy Conversion Systems",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Introduction to electric-energy sources, energy-storage devices, energy economics, environmental issues and electrical hazards. Principles of electric power systems transmission and distribution. Basic electromechanical conversion systems pulse and distribution transformers, induction rotating machines. Principles of electric energy conversion, static power supplies, static controllers and electric-power quality. Fundamentals of power management heat-sinks and cooling systems. Alternate-week experiments with basic electrical machines. Objectives: familiarization with energy sources, storage de..."
+    "Compenents"  : [{
+      "Section"   : "A1,A2, B1,B2",
+      "Number"    : "1260",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "10:30 AM - 11:50 AM",
+        "Day"     : "Tuesday, Thursday",
+        "Location": "RGSH 505"
+                      },
+      ],
+
+        
+        { "Name": "Laboratory-A1, A2",
+        "Meetings":[{
+        "Time": "11:00 AM - 1:50 PM",
+        "Day": "Monday",
+        "Location": "DIBN LC018"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B1, B2",
+        "Meetings":[{
+        "Time": "9:00 AM -11:50 AM",
+        "Day": "Friday",
+        "Location": "DIBN LC018"  
+          }]
+        },
+        
+    }]
+    
+},
+  
+{
+    "Ids"         : [
+      "Id"        : "4183"],
+    "Name"        : "Wireless Communications",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "The required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below). DP1 provides significant background laboratory experience in the student’s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec.."
+    "Compenents"  : [{
+      "Section"   : "A,B,C",
+      "Number"    : "1264",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "9:00 AM - 10:25 AM",
+        "Day"     : "Monday",
+        "Location": "JABS 673"
+                      },
+      ],
+
+        
+        { "Name": "Laboratory-A",
+        "Meetings":[{
+        "Time": "10:30 AM - 1:50 PM",
+        "Day": "Monday",
+        "Location": "DIBN LC016"  
+          }]
+        },
+           
+         { "Name": "Laboratory-B",
+        "Meetings":[{
+        "Time": "10:00 AM -1:25 PM",
+        "Day": "Friday",
+        "Location": "DIBN LC016"  
+          }]
+        },
+        { "Name": "Laboratory-C",
+        "Meetings":[{
+        "Time": "2:00 PM -4:50 PM",
+        "Day": "Monday",
+        "Location": "DIBN LC016"  
+          }]
+        },
+        
+    }]
+    
+},
+  
+{
+    "Ids"         : [
+      "Id"        : "4153"],
+    "Name"        : "Multimedia",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "The required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below). DP1 provides significant background laboratory experience in the student’s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec..."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "23880",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "2:30 PM - 3:50 PM",
+        "Day"     : "Wednesday",
+        "Location": "RGSH 304"
+                      },
+      ],
+
+        
+        { "Name": "Laboratory",
+        "Meetings":[{
+        "Time": "1:30 PM - 4:20 PM",
+        "Day": "Monday",
+        "Location": "DIBN LC008"  
+          }]
+}
+  }],
+
+},
+
+{
+    "Ids"         : [
+      "Id"        : "4313"],
+    "Name"        : "Computer Engineering Design Project I",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Lectures and experiments introduce computer hardware organization, assembly language programming and interfacing computer hardware to physical devices. This course exercises the student’s oral presentation and written communication skills, and provides background necessary for beginning independent project work. Students find an adviser and choose DP II course project. | Prerequisite: completion of all junior level technical courses, including minimum grade requirements. ABET competencies: a, b, c, e, f, g, k."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1245",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "8:00AM - 9:50AM",
+        "Day"     : "Wednesday",
+        "Location": "JABS 673"
+                      },
+      ],
+
+  }]
+        
+    },
+
+
+{
+    "Ids"         : [
+      "Id"        : "4323"],
+    "Name"        : "Computer Engineering Design Project II",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Students work with faculty advisers in this concluding phase of their Capstone Project. This project builds upon the analytical and laboratory skills developed in previous required and elective courses. The project may be an individual one, or carried out by a team of students working with a faculty group adviser. The project also may be multidisciplinary, carried out with students from other departments. Students are required to make oral and written presentations. | Prerequisites: EE-UY 4313 or CS-UY 4513. ABET competencies: a, b, c, d, e, f, g, h, i, j, k."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "20627",
+      "Name"      : "Project",
+      "Professor" : "N/A",
+      
+
+  }
+                    ],
+    
+    },
+
+{
+    "Ids"         : [
+      "Id"        : "4223"],
+    "Name"        : "Electrical Engineering Design Project II",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Desctiption" : "In this concluding phase of the Design Project, students and their advisers continue to work on the independent project begun in the previous semester. The final project builds upon analytical and laboratory skills developed in previous required and elective courses. The project may be an individual one, or may be carried out by a student team working with a faculty group adviser. The final Capstone Project also may be a multidisciplinary project carried out with students from other departments. | Prerequisite: EE-UY 41X3. ABET competencies: a, b, c, d, e, f, g, h, i, j, k."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1992",
+      "Name"      : "Project",
+      "Professor" : "N/A",
+      
+
+  }
+                    ],
+
+    },
+
+{
+    "Ids"         : [
+      "Id"        : "4123"],
+    "Name"        : "Senior Design in Electrical Power & Machinery",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "The required design project consists of two three-credit courses. The first course, EE DP1, is one of a number of specialty lab/project courses offered by the department in various subdisciplines such as electronics, machinery, robotics, imaging, communications, etc. (EE-UY 4113-4183, below). DP1 provides significant background laboratory experience in the student’s area of concentration. Students begin independent projects by finding an adviser and initiating the project work, and exercising oral presentation and written communication skills. | Prerequisite: completion of all junior-level tec..."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1243",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "12:30PM - 3:25PM",
+        "Day"     : "Wednesday",
+        "Location": "RGSH 325"
+                      },
+      ],
+
+  }]
+    
+    },
+
+{
+    "Ids"         : [
+      "Id"        : "4001"],
+    "Name"        : "ECE Professional Development & Presentation",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "This course provides electrical and computer engineering students with concepts, theory, principles and experience in project management and project presentation. Students learn how to apply skills learned in engineering coursework to team projects in a professional environment. Prerequisites: Junior or senior status or permission of the instructor. | Restricted to Electrical and Computer Engineering majors."
+    "Compenents"  : [{
+      "Section"   : "A,B",
+      "Number"    : "1241(A), 1483(B)",
+      "Name"      : "Lecture-A",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "4:30PM - 5:25PM",
+        "Day"     : "Tuesday",
+        "Location": "RGSH 503"
+                      },
+      ],
+        { "Name": "Lecture-B",
+        "Meetings":[{
+        "Time": "4:30PM - 5:25PM",
+        "Day": "Wednesday",
+        "Location": "RGSH 200"  
+          }]
+}
+  }]
+
+},
+
+{
+    "Ids"         : [
+      "Id"        : "3054"],
+    "Name"        : "Signals and Systems",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "This course centers on linear system theory for analog and digital systems; linearity, causality and time invariance; impulse response, convolution and stability; the Laplace, z- transforms and applications to Linear Time Invariant (LTI) systems; frequency response, analog and digital filter design. Topics also include Fourier Series, Fourier Transforms and the sampling theorem. Weekly computer-laboratory projects use analysis- and design-computer packages. The course establishes foundations of linear systems theory needed in future courses; use of math packages to solve problems and simulate ..."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1196",
+      "Name"      : "Lecture",
+      "Professor" : "???",
+      "Meetings"  : [{
+        "Time"    : "12:30 PM - 2:20 PM",
+        "Day"     : "Monday,Wednesday",
+        "Location": "RGSH 605"
+                      },
+      ],
+
+        
+        { "Name": "Laboratory",
+        "Meetings":[{
+        "Time": "10:00AM - 11:50 AM",
+        "Day": "Friday",
+        "Location": "RGSH 605"  
+          }]
+}
+  }],
+
+},
+
+{
+    "Ids"         : [
+      "Id"        : "2233"],
+    "Name"        : "Introduction to Probability",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Standard first course in probability, recommended for those planning further work in probability or statistics. Probability of events, random variables and expectations, discrete and continuous distribution, joint and conditional distribution, moment generating functions, central limit theorem. | Prerequisites: MA-UY 109, MA-UY 2112, OR MA-UY 2114. Note: Not open to students who have taken MA-UY 3012 or MA-UY 3022."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "20924",
+      "Name"      : "Lecture",
+      "Professor" : "Sundeep Rangan",
+      "Meetings"  : [{
+        "Time"    : "3:30PM - 4:50PM",
+        "Day"     : "Tuesday, Thursday",
+        "Location": "RGSH 802"
+                      },
+      ],
+
+  }]
+    
+},
+{
+    "Ids"         : [
+      "Id"        : "397"],
+    "Name"        : "Senior Thesis",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Independent design-oriented engineering project preformed under guidance of faculty advisor. Oral thesis defense and formal, bound thesis volume required. Registration of at least 6 credits required. | Prerequisite: Senior status and adviser approval. Credits: variable."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1190",
+      "Name"      : "Research",
+      "Professor" : "N/A",
+      
+
+  }
+                    ],
+    
+},
+{
+    "Ids"         : [
+      "Id"        : "373"],
+    "Name"        : "Guided Studies in EE",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Guided study under the guidance of a faculty member of a topic related to Electrical Engineering. | Prerequisite: Advisor approval."
+    "Compenents"  : [{
+      "Section"   : "A,B",
+      "Number"    : "1189(A), 2618(B)",
+      "Name"      : "Guided Studies-A/B",
+      "Professor" : "N/A",
+      
+  }]
+   
+},
+{
+    "Ids"         : [
+      "Id"        : "372"],
+    "Name"        : "Guided Studies in EE",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Guided study under the guidance of a faculty member of a topic related to Electrical Engineering. | Prerequisite: Advisor approval."
+    "Compenents"  : [{
+      "Section"   : "BK01",
+      "Number"    : "3353",
+      "Name"      : "Guided Studies",
+      "Professor" : "N/A",
+      
+  }]
+  
+},
+{
+    "Ids"         : [
+      "Id"        : "371"],
+    "Name"        : "Guided Studies in EE",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : "Guided study under the guidance of a faculty member of a topic related to Electrical Engineering. | Prerequisite: Advisor approval."
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1188",
+      "Name"      : "Guided Studies",
+      "Professor" : "N/A",
+      
+  }]
+    
+},
+{
+    "Ids"         : [
+      "Id"        : "221"],
+    "Name"        : "Senior Design Project in EE",
+    "Session"     : "09/02/2014 - 12/19/2014",
+    "Description" : ""
+    "Compenents"  : [{
+      "Section"   : "A",
+      "Number"    : "1187",
+      "Name"      : "Research",
+      "Professor" : "N/A",
+      
+  }]
+    
+},
+]
