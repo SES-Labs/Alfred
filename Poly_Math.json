@@ -1,0 +1,55 @@
+[
+  {
+    "Ids"         : [
+                     "Id"        : "2"
+                     ],
+    "Name"        : "ELEMENTS OF LINEAR ALGEBRA I",
+    "Session"     : "09/02/2014 - 10/21/2014",
+    "Description" : "This course introduces vector concepts. Linear transformations.Matrices and Determinants. Characteristic roots and eigenfunctions.",
+    "Compenents"  : [{
+                      "Section"   : "C",
+                      "Number"    : "1720",
+                      "Name"      : "Lecture",
+                      "Professor" : "Unknown",
+                      "Meetings"  : [{
+                                      "Time"    : "2.00 PM - 3.50 PM",
+                                      "Day"     : "Tuesday",
+                                      "Location": "RGSH 325"
+                                     },
+                                     {
+                                      "Time"    : "2.00 PM - 3.50 PM",
+                                      "Day"     : "Thursday",
+                                      "Location": "RGSH 325"
+                                     },
+                                     {
+                                      "Time"    : "4.00 PM - 5.50 PM",
+                                      "Day"     : "Tuesday",
+                                      "Location": "RGSH 204"
+                                     },
+                                     {
+                                      "Time"    : "4.00 PM - 5.50 PM",
+                                      "Day"     : "Thursday",
+                                      "Location": "RGSH 204"
+                                     },
+                                    ]
+                    }]
+      "Session"     : "10/22/2014 - 12/19/2014",
+      "Compenents"  : [{
+                      "Section"   : "C",
+                      "Number"    : "1720",
+                      "Name"      : "Lecture",
+                      "Professor" : "Unknown",
+                      "Meetings"  : [{
+                                      "Time"    : "6.30 PM - 8.20 PM",
+                                      "Day"     : "Tuesday",
+                                      "Location": "RGSH 325"
+                                     },
+                                     {
+                                      "Time"    : "6.30 PM - 8.20 PM",
+                                      "Day"     : "Thursday",
+                                      "Location": "RGSH 325"
+                                     },
+                                    ]
+                    }]
+  }
+]
